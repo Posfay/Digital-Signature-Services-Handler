@@ -27,7 +27,7 @@
 
         <cxf.version>3.2.7</cxf.version>
         <spring.version>4.3.19.RELEASE</spring.version>
-        <spring-security.version>4.2.8.RELEASE</spring-security.version>
+        <spring-security.version>5.2.10.RELEASE</spring-security.version>
         <thymeleaf-spring4.version>3.0.9.RELEASE</thymeleaf-spring4.version>
         <jackson-jaxrs-json-provider.version>2.9.7</jackson-jaxrs-json-provider.version>
         <hsqldb.version>2.4.1</hsqldb.version>
